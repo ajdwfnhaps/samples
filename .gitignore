@@ -5,3 +5,6 @@
 /samples/CommandLineTool/bin/Debug/netcoreapp3.1
 /samples/CommandLineTool/obj
 /samples/.vs/samples/v16
+/samples/.vs/samples/DesignTimeBuild
+/samples/ClassLibrary/bin/Debug/netstandard2.1
+/samples/ClassLibrary/obj
