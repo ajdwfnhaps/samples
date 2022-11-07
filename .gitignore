@@ -8,3 +8,5 @@
 /samples/.vs/samples/DesignTimeBuild
 /samples/ClassLibrary/bin/Debug/netstandard2.1
 /samples/ClassLibrary/obj
+/samples/.vs
+/samples/algorithm/obj
